@@ -41,5 +41,5 @@ Please run the module if you make any updates to code.
 
 ##  Walkthrough Video:
 Please watch the following video demonstration if you need help using the application: 
-(add URL link here)
+(https://www.youtube.com/watch?v=0VXshzZgd9s)
 
