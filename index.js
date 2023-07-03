@@ -2,7 +2,7 @@ const generateMarkdown = require("./utilis/generateMarkdown");
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-// Array of Questions
+// Array of Questions for the prompt
 const questions = [
     {
       name: "title",
@@ -18,44 +18,44 @@ const questions = [
   
     {
       name: "installation",
-      message: "Enter installation instructions for your project:",
+      message: "What do you need to install to use this application?",
       type: "input",
     },
    
     {
       name: "usage",
-      message: "Enter usage information for your project:",
+      message: "How do I use your application?",
       type: "input",
     },
   
-    {
-      name: "contributing",
-      message: "Enter your contribution guidelines for this project:",
-      type: "input",
-    },
-  
-    {
-      name: "tests",
-      message: "Enter your testing guidelines for this project:",
-      type: "input",
-    },
- 
     {
       name: "license",
-      message: "Choose a software license for this project:",
+      message: "Which license are you using under?",
       type: "checkbox",
-      choices: ["ISC", "MIT", "APACHE", "GPL"],
+      choices: ["APACHE", "GPL", "ISC", "MIT"],
+      },
+
+    {
+      name: "contributing",
+      message: "How does this app contributing to the community?",
+      type: "input",
     },
   
     {
+      name: "test",
+      message: "Any testing guideline?",
+      type: "input",
+    },
+       
+    {
       name: "github",
-      message: "Enter your github username:",
+      message: "Please share your github",
       type: "input",
     },
    
     {
       name: "email",
-      message: "Enter your email address:",
+      message: "Please share you email address",
       type: "input",
     },
   ];

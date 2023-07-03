@@ -33,41 +33,44 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `## ${data.title}
   [${renderLicenseBadge(data.license)}](${renderLicenseLink(data.license)})
-
-  ## Table of Contents:
-  *  [Description](#description)
-  *  [Installation](#installation)
-  *  [Usage](#usage)
-  *  [Contributing](#contributing)
-  *  [Tests](#tests)
-  *  [License](#license)
-  *  [Questions](#questions)
-  *  [Video Walkthrough](#Video-Walkthrough)
-
 
 ## Description:
 ${data.description}
+
+## Table of Contents:
+*  [Description](#description)
+*  [Installation](#installation)
+*  [Usage](#usage)
+*  [Contributing](#contributing)
+*  [Test](#test)
+*  [License](#license)
+*  [Questions](#questions)
+*  [Video Walkthrough](#Video-Walkthrough)
+
 ## Installation:
 ${data.installation}
+
 ## Usage:
 ${data.usage}
-## Contributing:
-${data.contributing}
-## Tests:
-${data.tests}
+
 ## License
 ${renderLicenseSection(data.license)}
+
+## Contributing:
+${data.contributing}
+
+## Test:
+${data.test}
+
 ## Questions
 
-  * If there are any questions, feel free to contact my email at: ${data.email}
-  * You can also find me on GitHub at: [${data.github}](https://github.com/${
-    data.github
-  })
-##  Video Walkthrough:
-Please find the attached link of walkthrough video demonstrating the functionality of this application:
-[Click here to watch the Demo](https://drive.google.com/file/d/1ojK4KgcgdU0YEWV2X6YKZOB_hRZFHw81/view)
+* If you have any questions, please contact me via email: ${data.email}
+* Link to my github page: [${data.github}](https://github.com/${data.github})
+
+##  Walkthrough Video:
+Please watch the video demonstration if you need help using the application: (https://drive.google.com/file/d/1ojK4KgcgdU0YEWV2X6YKZOB_hRZFHw81/view)
 
 `;
 }
