@@ -1,6 +1,6 @@
 ## a
-  [![License](https://img.shields.io/badge/license-APACHE,GPL,ISC,MIT-blue.svg)
-    ](https://opensource.org/licenses/APACHE,GPL,ISC,MIT)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)
+    ](https://opensource.org/licenses/MIT)
 
 ## Description:
 a
@@ -22,7 +22,7 @@ a
 a
 
 ## License
-This project is under [APACHE,GPL,ISC,MIT](https://opensource.org/licenses/APACHE,GPL,ISC,MIT) license.
+This project is under [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contribution:
 a
@@ -32,8 +32,8 @@ a
 
 ## Questions
 
-* If you have any questions, please contact me via email: a
-* Link to my github page: [a](https://github.com/a)
+* If you have any questions, please contact me via email: ineeus2@gmail.com
+* Link to my github page: [Yung-Shin](https://github.com/Yung-Shin)
 
 ##  Walkthrough Video:
 Please watch the following video demonstration if you need help using the application: 
