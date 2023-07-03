@@ -36,7 +36,7 @@ const questions = [
       },
 
     {
-      name: "contributing",
+      name: "contribution",
       message: "How does this app contributing to the community?",
       type: "input",
     },

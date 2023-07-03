@@ -1,6 +1,6 @@
 ## a
-  [![License](https://img.shields.io/badge/license--blue.svg)
-    ](https://opensource.org/licenses/)
+  [![License](https://img.shields.io/badge/license-APACHE,GPL,ISC,MIT-blue.svg)
+    ](https://opensource.org/licenses/APACHE,GPL,ISC,MIT)
 
 ## Description:
 a
@@ -9,32 +9,33 @@ a
 *  [Description](#description)
 *  [Installation](#installation)
 *  [Usage](#usage)
-*  [Contributing](#contributing)
-*  [Test](#test)
 *  [License](#license)
+*  [Contribution](#contribution)
+*  [Test](#test)
 *  [Questions](#questions)
-*  [Video Walkthrough](#Video-Walkthrough)
+*  [Walkthrough Video](#Walkthrough-Video)
 
 ## Installation:
 a
 
 ## Usage:
-d
+a
 
 ## License
-This project is under [](https://opensource.org/licenses/) license.
+This project is under [APACHE,GPL,ISC,MIT](https://opensource.org/licenses/APACHE,GPL,ISC,MIT) license.
 
-## Contributing:
-d
+## Contribution:
+a
 
 ## Test:
-d
+a
 
 ## Questions
 
-* If you have any questions, please contact me via email: d
-* Link to my github page: [d](https://github.com/d)
+* If you have any questions, please contact me via email: a
+* Link to my github page: [a](https://github.com/a)
 
 ##  Walkthrough Video:
-Please watch the video demonstration if you need help using the application: (https://drive.google.com/file/d/1ojK4KgcgdU0YEWV2X6YKZOB_hRZFHw81/view)
+Please watch the following video demonstration if you need help using the application: 
+(add URL link here)
 

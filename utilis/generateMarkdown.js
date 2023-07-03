@@ -43,11 +43,11 @@ ${data.description}
 *  [Description](#description)
 *  [Installation](#installation)
 *  [Usage](#usage)
-*  [Contributing](#contributing)
-*  [Test](#test)
 *  [License](#license)
+*  [Contribution](#contribution)
+*  [Test](#test)
 *  [Questions](#questions)
-*  [Video Walkthrough](#Video-Walkthrough)
+*  [Walkthrough Video](#Walkthrough-Video)
 
 ## Installation:
 ${data.installation}
@@ -58,8 +58,8 @@ ${data.usage}
 ## License
 ${renderLicenseSection(data.license)}
 
-## Contributing:
-${data.contributing}
+## Contribution:
+${data.contribution}
 
 ## Test:
 ${data.test}
@@ -70,7 +70,8 @@ ${data.test}
 * Link to my github page: [${data.github}](https://github.com/${data.github})
 
 ##  Walkthrough Video:
-Please watch the video demonstration if you need help using the application: (https://drive.google.com/file/d/1ojK4KgcgdU0YEWV2X6YKZOB_hRZFHw81/view)
+Please watch the following video demonstration if you need help using the application: 
+(add URL link here)
 
 `;
 }
